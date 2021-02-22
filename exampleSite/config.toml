@@ -30,46 +30,43 @@ unsafe = true
 [[menu.footer_left]]
 name = "About Us"
 url = "#"
+weight = 3
 [[menu.footer_left]]
 name = "Quick Start"
 url = "#"
+weight = 2
 [[menu.footer_left]]
 name = "Pricing"
 url = "pricing"
+weight = 1
 [[menu.footer_middle]]
 name = "Pricing"
 url = "pricing"
+weight = 3
 [[menu.footer_middle]]
 name = "Platform"
 url = "#"
+weight = 2
 [[menu.footer_middle]]
 name = "Features"
 url = "#"
-[[menu.footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+weight = 1
 [[menu.footer_right]]
 name = "Terms & Conditions"
 url = "terms-conditions"
-[[menu.footer_right]]
+weight = 2
+[[menu.main]]
 name = "FAQ"
 url = "faq"
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.main]]
-name = "Pricing"
-url = "pricing"
-weight = 2
+weight = 4
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
 [[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
+name = "Pricing"
+url = "pricing"
+weight = 2
 [params]
 author = "Themefisher"
 contact_form_action = "#"
